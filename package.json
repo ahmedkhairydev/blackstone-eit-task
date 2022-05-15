@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve --port=4900 -o",
     "build": "ng build --prod --base-href https://ahmedkhairydev.github.io/blackstone-eit-task/ ",
-    "deploy": "ng deploy --base-href https://ahmedkhairydev.github.io/blackstone-eit-task/ --repo=https://github.com/ahmedkhairydev/blackstone-eit-task.git --name=Ahmed Khairy",
+    "deploy": "ng deploy --base-href https://ahmedkhairydev.github.io/blackstone-eit-task/ --repo=https://github.com/ahmedkhairydev/blackstone-eit-task.git --name=AhmedKhairy",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
